@@ -1,0 +1,17 @@
+# Arnaldo's Dungeon #
+
+Here lies the source code for the online archive of The Oral History of the
+Dungeon.
+
+## Contributing ##
+
+If you would like to preserve a historical record of The Dungeon, please add it
+on a single like at the top of the `src/history.txt` file, followed by an empty
+line.
+You must attribute the source of the information.
+In many cases, this will be The Oral History of the Dungeon, as unfortunately
+we have lost many textual records of The Dungeon.
+
+Note that while He is referred to by a different name in some records, on this
+archive we refer to Him as Arnaldo.
+We will reject pull requests that refer to Him by other names.
