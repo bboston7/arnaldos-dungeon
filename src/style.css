@@ -12,7 +12,15 @@ h1 {
   font-size: 3em;
 }
 
-p {
+.quote {
   font-style: italic;
   margin-bottom: 2em;
+}
+
+h2 {
+  text-align: center;
+}
+
+a {
+  color: white;
 }
