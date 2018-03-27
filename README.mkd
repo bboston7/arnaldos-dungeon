@@ -6,7 +6,7 @@ Dungeon.
 ## Contributing ##
 
 If you would like to preserve a historical record of The Dungeon, please add it
-on a single like at the top of the `src/history.txt` file, followed by an empty
+on a single line at the top of the `src/history.txt` file, followed by an empty
 line.
 You must attribute the source of the information.
 In many cases, this will be The Oral History of the Dungeon, as unfortunately
